@@ -26,6 +26,7 @@
     "@ionic/pwa-elements": "^1.5.2",
     "core-js": "^3.6.5",
     "rxjs": "^6.5.5",
+    "spoonacular_api": "^1.0.0",
     "tslib": "^1.11.1",
     "zone.js": "^0.10.3"
   },

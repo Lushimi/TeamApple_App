@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\explore-container",
+    "\\src\\app\\pages",
+    "\\src\\app\\services"
+  ],
+  "SelectedNode": "\\src\\app\\services\\spoonacular.service.spec.ts",
+  "PreviewInSolutionExplorer": false
+}
